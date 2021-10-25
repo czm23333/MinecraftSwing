@@ -1,0 +1,8 @@
+name: MinecraftSwing
+version: 1.0
+main: io.github.czm23333.minecraftswing.Demo
+authors: [ czm23333 ]
+commands:
+  test:
+    description: Test
+    usage: /test
